@@ -109,6 +109,7 @@ body {
     transition: .3s ease; 
     transition-property: background-color, color;
     cursor: pointer;
+    outline:none;
 }
 
 .random-btn:hover {
